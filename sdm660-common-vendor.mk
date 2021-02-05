@@ -765,19 +765,6 @@ PRODUCT_PACKAGES += \
     TimeService \
     PowerOffAlarm \
     datastatusnotification \
-    imssettings \
-    uceShimService \
-    dpmserviceapp \
-    ims \
-    qcrilmsgtunnel \
-    qcrilhook \
-    vendor.qti.data.factory-V2.1-java \
-    vendor.qti.hardware.data.latency-V1.0-java \
-    vendor.qti.ims.callcapability-V1.0-java \
-    vendor.qti.ims.callinfo-V1.0-java \
-    vendor.qti.ims.factory-V1.0-java \
-    vendor.qti.ims.rcsconfig-V1.0-java \
-    vendor.qti.ims.rcsconfig-V1.1-java \
     manifest_android.hardware.drm@1.2-service.widevine \
     vendor.qti.gnss@3.0-service \
     chargeonlymode \
