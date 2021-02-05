@@ -770,12 +770,6 @@ PRODUCT_PACKAGES += \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel \
-    com.qualcomm.qti.imscmservice-V2.0-java \
-    com.qualcomm.qti.imscmservice-V2.1-java \
-    com.qualcomm.qti.imscmservice-V2.2-java \
-    com.qualcomm.qti.uceservice-V2.0-java \
-    com.qualcomm.qti.uceservice-V2.1-java \
-    com.qualcomm.qti.uceservice-V2.2-java \
     qcrilhook \
     vendor.qti.data.factory-V2.1-java \
     vendor.qti.hardware.data.latency-V1.0-java \
@@ -784,7 +778,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.ims.factory-V1.0-java \
     vendor.qti.ims.rcsconfig-V1.0-java \
     vendor.qti.ims.rcsconfig-V1.1-java \
-    qti-telephony-common \
     manifest_android.hardware.drm@1.2-service.widevine \
     vendor.qti.gnss@3.0-service \
     chargeonlymode \
